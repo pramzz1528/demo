@@ -1,0 +1,15 @@
+1: git init
+2: git status
+3: git add. (to add total files )
+4: git add(filename) (to add a particular file)
+5: git config user.name"name"
+6: git config user.name ( to confirm it )
+7: git config user.email"email" 
+8: git config user.email(to confirm the mail)
+9: git commit -m "first commit" ( to comit the file)
+10: git remote add(any remote name)(pine resp inte linkum)
+11: git remote ( to show remote name )
+12: git branch (to show branch name)
+13: git branch(name) (to create an branch)
+14: git checkout (branchname) to change from master to our own branch
+15: git push(remote name)and(branch name) (to push your remote & branch)
